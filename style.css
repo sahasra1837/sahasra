@@ -1,0 +1,48 @@
+body {
+    background-color: crimson;
+}
+
+.div_1 {
+    background-color: floralwhite;
+    float: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#login {
+    width: 30%;
+}
+
+#output {
+    padding: 15px;
+    width: 80%;
+    background-color: seashell;
+    border-radius: 30px;
+}
+
+#number1_input,
+#number2_input {
+    width: 30%;
+}
+
+#question,
+#answer {
+    color: black;
+    font-size: 30px;
+}
+
+#test_style {
+    color: whitesmoke;
+}
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#player1_score,
+#player2_score {
+    font-size: 20px;
+}
